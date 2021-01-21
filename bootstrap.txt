@@ -1,0 +1,14 @@
+[Settings]
+Priority=Default
+
+[Default]
+DeployRoot=\\SHOUQIAN-DC\DeploymentShare$
+UserID=Administrator
+
+UserDomain=shouqian.com
+
+UserPassword=123.com
+
+KeyboardLocale=zh-CN
+
+SkipBDDWelcome=YES
